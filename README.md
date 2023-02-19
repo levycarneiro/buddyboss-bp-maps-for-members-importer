@@ -1,4 +1,4 @@
-This script is meant for this particular use case:
+This script is meant for the following use-case:
 
 - You use the BuddyBoss theme/plugin on your site
 - You have additional fields for address: City / State / Country
